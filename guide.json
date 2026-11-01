@@ -1,0 +1,312 @@
+{
+  "version": "3.0",
+  "destination": "Marbella, Costa del Sol",
+  "updated": "2026-11-01",
+  "intro": "Explore Marbella on the Costa del Sol: the flower-filled Old Town, Orange Square, beaches, the Golden Mile and nearby Puerto Banús. Plan days out and save your favourite places, memorable visits and personal photos on your device.",
+  "areas": [
+    {
+      "name": "Marbella Old Town",
+      "description": "Explore whitewashed streets, shops and cafés around Plaza de los Naranjos."
+    },
+    {
+      "name": "Marbella seafront",
+      "description": "Walk the Paseo Marítimo between beaches and beachside cafés."
+    },
+    {
+      "name": "Golden Mile",
+      "description": "Coastal stretch between central Marbella and Puerto Banús with hotels and beach clubs."
+    },
+    {
+      "name": "Puerto Banús",
+      "description": "Marina with yachts, shops, waterfront restaurants and evening walks."
+    },
+    {
+      "name": "San Pedro Alcántara",
+      "description": "Town west of Marbella with a pedestrian boulevard and beachfront promenade."
+    },
+    {
+      "name": "Nueva Andalucía",
+      "description": "Residential and golf area inland from Puerto Banús."
+    },
+    {
+      "name": "Cabopino",
+      "description": "Marina and beaches east of Marbella, near the Artola dunes."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Plaza de los Naranjos",
+      "description": "Historic square in Marbella Old Town with orange trees and cafés."
+    },
+    {
+      "name": "Marbella Old Town",
+      "description": "Wander the narrow streets, small shops and traditional Andalusian architecture."
+    },
+    {
+      "name": "Avenida del Mar",
+      "description": "Pedestrian promenade linking the Old Town with the seafront, featuring sculptures."
+    },
+    {
+      "name": "Puerto Banús Marina",
+      "description": "Watch boats and stroll along the harbour; check local events."
+    },
+    {
+      "name": "Dunas de Artola",
+      "description": "Protected coastal dunes near Cabopino; stay on marked paths."
+    },
+    {
+      "name": "Parque de la Alameda",
+      "description": "Shaded central park close to Avenida del Mar."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Málaga Airport",
+      "description": "Nearest major international airport; plan onward transfer to Marbella."
+    },
+    {
+      "name": "Intercity buses",
+      "description": "Check Avanza and local services for Marbella, Puerto Banús and nearby towns."
+    },
+    {
+      "name": "Local buses",
+      "description": "Urban routes serve central Marbella and surrounding districts; verify current routes."
+    },
+    {
+      "name": "Taxis",
+      "description": "Use licensed taxis and confirm pickup points and fares."
+    },
+    {
+      "name": "Walking",
+      "description": "Old Town is compact, while the wider Marbella area is spread out."
+    },
+    {
+      "name": "Driving",
+      "description": "A car can help with inland trips; check parking and traffic restrictions."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 for emergencies in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check card and cash withdrawal charges."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check current UK government Spain travel advice and passport requirements."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish is the official language; English is common in tourist areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags and lifeguard instructions."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is generally one hour ahead of the UK."
+    },
+    {
+      "name": "Sun protection",
+      "description": "Carry water and sunscreen, especially in summer."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Marbella City Council",
+      "url": "https://www.marbella.es/"
+    },
+    {
+      "name": "Andalusia tourism",
+      "url": "https://www.andalucia.org/en/"
+    },
+    {
+      "name": "Avanza buses",
+      "url": "https://www.avanzabus.com/"
+    },
+    {
+      "name": "Málaga Airport (Aena)",
+      "url": "https://www.aena.es/en/malaga-costa-del-sol.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Marbella local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Playa de la Fontanilla",
+      "description": "Popular beach near central Marbella with promenade access."
+    },
+    {
+      "name": "Playa de Venus",
+      "description": "Central beach close to the Old Town and marina."
+    },
+    {
+      "name": "Playa de Nagüeles",
+      "description": "Beach on the Golden Mile; check access and facilities."
+    },
+    {
+      "name": "Playa de Puerto Banús",
+      "description": "Beach by the Puerto Banús area, also known as Playa de Levante."
+    },
+    {
+      "name": "Playa de Cabopino",
+      "description": "Sandy beach near Cabopino marina and the Artola dunes."
+    },
+    {
+      "name": "Playa de San Pedro",
+      "description": "Beachfront and promenade west of Marbella."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Marbella Old Town shops",
+      "description": "Browse independent boutiques and local shops in the historic centre."
+    },
+    {
+      "name": "Puerto Banús shopping",
+      "description": "Designer shops and other retail around the marina."
+    },
+    {
+      "name": "San Pedro market",
+      "description": "Look for local market days; schedules and locations may change."
+    },
+    {
+      "name": "La Cañada shopping centre",
+      "description": "Large shopping centre outside central Marbella; check transport and opening hours."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Puerto Banús Marina",
+      "description": "Evening restaurants, bars and waterfront atmosphere."
+    },
+    {
+      "name": "Marbella Old Town",
+      "description": "Tapas bars and relaxed evening cafés around the historic streets."
+    },
+    {
+      "name": "Marbella seafront",
+      "description": "Sunset walks and beachfront restaurants."
+    },
+    {
+      "name": "Golden Mile",
+      "description": "Hotel lounges and beach venues; confirm entry policies and opening times."
+    }
+  ],
+  "family": [
+    {
+      "name": "Alameda Park",
+      "description": "Shady place for a break near central Marbella."
+    },
+    {
+      "name": "Cabopino Beach",
+      "description": "Family beach option; follow flags and lifeguard advice."
+    },
+    {
+      "name": "Avenida del Mar",
+      "description": "Flat pedestrian promenade for a stroll."
+    },
+    {
+      "name": "San Pedro Boulevard",
+      "description": "Open-air pedestrian space with playground areas."
+    },
+    {
+      "name": "Marbella promenade",
+      "description": "Walk or cycle on suitable sections of the seafront."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Plaza de los Naranjos",
+      "description": "Old Town cafés and restaurants around the historic square."
+    },
+    {
+      "name": "Marbella Old Town",
+      "description": "Traditional Andalusian tapas and casual dining."
+    },
+    {
+      "name": "Puerto Banús",
+      "description": "Marina-side restaurants with varied cuisines and price points."
+    },
+    {
+      "name": "San Pedro Alcántara",
+      "description": "Neighbourhood tapas bars and family restaurants."
+    },
+    {
+      "name": "Marbella seafront",
+      "description": "Chiringuitos and seafood spots along the promenade."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Mijas Pueblo",
+      "description": "Whitewashed hill village with views over the coast."
+    },
+    {
+      "name": "Estepona",
+      "description": "Coastal town with flower-lined streets and an attractive Old Town."
+    },
+    {
+      "name": "Ronda",
+      "description": "Historic town famous for its dramatic gorge and bridge."
+    },
+    {
+      "name": "Málaga",
+      "description": "Visit museums, the Alcazaba and the historic centre."
+    },
+    {
+      "name": "Benahavís",
+      "description": "Village known for restaurants and surrounding hills."
+    },
+    {
+      "name": "Gibraltar",
+      "description": "Cross-border trip; check passport, entry requirements and travel time beforehand."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Orange Square",
+      "description": "Plaza de los Naranjos, Marbella, Spain"
+    },
+    {
+      "name": "Avenida del Mar",
+      "description": "Avenida del Mar, Marbella, Spain"
+    },
+    {
+      "name": "Alameda Park",
+      "description": "Parque de la Alameda, Marbella, Spain"
+    },
+    {
+      "name": "Puerto Banús Marina",
+      "description": "Puerto Banús, Marbella, Spain"
+    },
+    {
+      "name": "Fontanilla Beach",
+      "description": "Playa de la Fontanilla, Marbella, Spain"
+    },
+    {
+      "name": "Cabopino Beach",
+      "description": "Playa de Cabopino, Marbella, Spain"
+    },
+    {
+      "name": "Artola Dunes",
+      "description": "Dunas de Artola, Marbella, Spain"
+    },
+    {
+      "name": "San Pedro Boulevard",
+      "description": "Bulevar San Pedro Alcántara, Marbella, Spain"
+    }
+  ]
+}

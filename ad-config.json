@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "marbella-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}
